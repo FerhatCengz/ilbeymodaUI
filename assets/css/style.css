@@ -1800,6 +1800,7 @@ button,
 input[type="submit"],
 input[type="button"],
 .dreaming-btn {
+  cursor: pointer;
   display: inline-block;
   height: 40px;
   line-height: 40px;
