@@ -8630,7 +8630,7 @@ p.stars.selected:not(:hover) a.active ~ a:before {
   margin-right: auto;
   font-size: 32px;
   padding-bottom: 10px;
-  background-image: url("../images/title-bg.png");
+  /* background-image: url("../images/title-bg.png"); */
   background-position: center bottom -6px;
   background-repeat: no-repeat;
   background-size: cover;
