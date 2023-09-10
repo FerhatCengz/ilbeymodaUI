@@ -190,11 +190,6 @@
             var _this = $(this),
                 _responsive = _this.data('responsive'),
                 _config = [];
-                //slick.js yapısını autplay haline getirdik.
-                _config.autoplay = true;  // Add autoplay option
-                _config.autoplaySpeed = 2300;  // Set autoplay speed in milliseconds (e.g., 3000ms = 3 seconds)
-                _config.pauseOnHover = true; 
-
             if (_this.hasClass('slick-vertical')) {
                 _config.prevArrow = '<span class="fa fa-angle-up prev"></span>';
                 _config.nextArrow = '<span class="fa fa-angle-down next"></span>';
