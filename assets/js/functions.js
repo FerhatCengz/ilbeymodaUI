@@ -1,3 +1,5 @@
+
+// CDN Denemesi
 (function ($) {
     "use strict";
     function lynessa_form() {
